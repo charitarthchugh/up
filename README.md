@@ -22,18 +22,15 @@ fisher jschwrtz/up
 
 ## Usage
 
-- move up two directories (cd ../..)
+move up two directories (cd ../..)
   ```bash
   up 2
   ```
-- move up 5 directories (cd ../../../../..)
+move up 5 directories (cd ../../../../..)
   ```bash
   up 5
   ```
 
 [travis-link]: https://travis-ci.org/jschwrtz/up
 [travis-badge]: https://img.shields.io/travis/jschwrtz/up.svg
-[slack-link]: https://fisherman-wharf.herokuapp.com
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 [fisherman]: https://github.com/fisherman/fisherman
-
