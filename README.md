@@ -1,6 +1,6 @@
 # Up, the Fish Plugin
 
-![Up](https://cdn-pro.dprcdn.net/files/acc_632465/Suwcia "Up.fish")
+![Up](https://raw.githubusercontent.com/jschwrtz/up/master/docs/up.jpeg "Up.fish")
 
 [![Build Status][travis-badge]][travis-link]
 
