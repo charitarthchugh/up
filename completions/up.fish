@@ -1,1 +1,1 @@
-complete -c up -d "{{PLUGIN-DESCRIPTION}}"
+complete -c up -d "go up {x} directories (default 1)"

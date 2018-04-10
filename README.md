@@ -16,18 +16,18 @@ No more defining a `cd ../../../../../../../..` alias.  Just `up 8`.
 
 ### With [fisherman]
 
-```bash
+```fish
 fisher jschwrtz/up
 ```
 
 ## Usage
 
 move up two directories (cd ../..)
-  ```bash
+  ```fish
   up 2
   ```
 move up 5 directories (cd ../../../../..)
-  ```bash
+  ```fish
   up 5
   ```
 
