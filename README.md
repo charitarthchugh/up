@@ -17,7 +17,7 @@ No more defining a `cd ../../../../../../../..` alias.  Just `up 8`.
 ### With [fisher]
 
 ```fish
-fisher charitarthchugh/up
+fisher install charitarthchugh/up
 ```
 
 ## Usage
